@@ -1,4 +1,4 @@
-# Docker ROS container
+# Rosserial Arduino Docker
 
 This is a simple Docker container to generate arduino libraries from rosserial_arduino
 
